@@ -8,6 +8,6 @@
 - 🥇 I have participated in many hackathons and have won first place and second place (https://devpost.com/software/hakawati-ar),(https://devpost.com/software/circles-aspvey)
 - 👨‍🎓 I also holds a Bachelor’s degree in Computer Science from King Abdulaziz University.
 - 💬 Ask me about Software Engineering, Web Applications and Front-End Development, :atom: React , 🚀 Startups, SaaS
-- ⚡ Fun fact: I love hanging out and traveling a lot, and I don't wear glasses 🤓
+- ⚡ Fun fact: I love food, hanging out and traveling a lot, and I don't wear glasses 🤓
 - 🌏 I’m currently working on maps and 2D/3D interactive web vizualization
 - 📫 How to reach me: moham.shalabi@gmail.com
